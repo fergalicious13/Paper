@@ -1,7 +1,7 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="oled_cleardisplay" id="19" x="72" y="34">
     <next>
-      <block type="movement_forward" id="242">
+      <block type="movement_reverse" id="252">
         <next>
           <block type="robot_delay" id="136" inline="true">
             <value name="DELAY">
