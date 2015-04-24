@@ -1,12 +1,12 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="oled_cleardisplay" id="19" x="72" y="34">
     <next>
-      <block type="movement_forward" id="167">
+      <block type="movement_right" id="231">
         <next>
           <block type="robot_delay" id="136" inline="true">
             <value name="DELAY">
               <block type="math_number" id="137">
-                <field name="NUM">1000</field>
+                <field name="NUM">1500</field>
               </block>
             </value>
             <next>
